@@ -1,0 +1,2 @@
+2023-09-20 18:01:26 2023/09/20 10:01:26 [error] 29#29: *1 "/etc/nginx/html/index.html" is not found (2: No such file or directory), client: 172.17.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8088"
+2023-09-20 18:01:26 172.17.0.1 - - [20/Sep/2023:10:01:26 +0000] "GET / HTTP/1.1" 404 153 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0"
